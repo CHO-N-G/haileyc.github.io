@@ -4,3 +4,4 @@ url: https://haileyc.github.io/<repository-name>
 baseurl:  # Leave blank if publishing to the root
 
 
+remote_theme: "mmistakes/minimal-mistakes@4.27.3"
